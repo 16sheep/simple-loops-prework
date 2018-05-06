@@ -17,7 +17,6 @@ def loop_iterator(number_of_times)
     puts phrase
     puts phrase
     puts phrase
-  end
 end
 
 def times_iterator(number_of_times)
